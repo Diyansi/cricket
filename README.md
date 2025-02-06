@@ -54,10 +54,6 @@ This program is designed to record and display statistics for both batsmen and b
 - The program currently supports a maximum of 100 batsmen and 100 bowlers.
 - It assumes that no player faces zero balls, which may affect the strike rate calculation.
 
-## License
+## Created by
 
-This project is open-source and available under the MIT License.
-
-## Author
-
-Created by [Diyansi Chaudhary] for educational purposes.
+[Diyansi Chaudhary]
